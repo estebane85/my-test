@@ -1,3 +1,4 @@
+hello
 # my-test
 
 Merge mess up add text test
