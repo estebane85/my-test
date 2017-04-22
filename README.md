@@ -12,3 +12,4 @@ Egregious. Outrageous. Preposterous.  Adding for merge test.
 
 test from second repository
 new sentence
+new sentence 2
